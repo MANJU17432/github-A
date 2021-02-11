@@ -2,7 +2,7 @@
 github workshop
 ## Basic Linux Commands
 - pwd 
-- cd
+- cd path
 - ls
 - ls -a
 - mkdir foldername
